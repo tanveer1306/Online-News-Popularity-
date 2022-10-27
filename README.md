@@ -1,2 +1,4 @@
-# Online-News-Popularity-
-This Python Project Analyses the No. of Shares an Article would get based on Several factors
+# Online News Popularity-
+
+#### There are 2 separate CSV files.Use the files accordingly.
+
